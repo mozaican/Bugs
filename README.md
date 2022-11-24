@@ -111,6 +111,28 @@ The '404 - Not Found' page contains an error message, unfriendly to the user.
 --------------------------------------
 
 **Title:**
+Purchase functionality works with no products in cart 
+
+**Description:**
+The purchase functionality works and a 'thank you for your purchase' message is displayed without products in cart
+
+**Steps to reproduce:**
+1. Go to https://www.demoblaze.com/cart.html
+2. Press 'Place Order' button
+3. Fill required 'Name' and 'Credit card' fields in the form
+4. Press 'Purchase' button
+
+**Expected result:**
+The 'Place Order' button should not work without products in cart and an error/warning message should be displayed if it is pressed.
+
+**Actual result:**
+Without products in cart the user can complete the purchase. 
+
+![image](https://user-images.githubusercontent.com/20253982/203816765-096674da-0845-429e-8846-92cc677a2b09.png)
+
+--------------------------------------
+
+**Title:**
 Navigation bar not aligned properly
 
 **Description:**

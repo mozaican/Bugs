@@ -22,7 +22,7 @@ A specific browser tab icon should be displayed after the page is loaded.
 **Actual result:**
 The default browser tab icon is being displayed.
 
-![image](https://user-images.githubusercontent.com/20253982/203776110-6087c72c-0281-4df5-b92a-c8b36a5b0ce7.png)
+![image](https://user-images.githubusercontent.com/20253982/203779636-083fe3d0-1737-4011-b562-1a294ee0617f.png)
 
 --------------------------------------
 
@@ -43,5 +43,5 @@ A customized '404 - Not Found' page should be displayed if no page is found.
 **Actual result:**
 The '404 - Not Found' page contains an error message, unfriendly to the user.
 
-![image](https://user-images.githubusercontent.com/20253982/203776148-74f68e23-76f0-4ffc-8db5-79c21f937839.png)
+![image](https://user-images.githubusercontent.com/20253982/203779310-9c141eb2-6bce-4bfa-8ae0-f36b389333e0.png)
 

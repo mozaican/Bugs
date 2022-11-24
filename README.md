@@ -5,6 +5,46 @@ Below are some bug report samples that I created.
 ------------------------
 
 **Title:**
+No picture shown for exceeded coffee intake
+
+**Description:**
+No picture is displayed after exceeding the daily maximum intake of coffee.
+
+**Steps to reproduce:**
+1. Go to https://www.globalsqa.com/angularJs-protractor/ConsumptionCalculator/
+2. Add 4 as input for the cups of coffee
+
+**Expected result:**
+When the coffee intake has exceeded the daily maximum a picture should be displayed.
+
+**Actual result:**
+No picture shown when the coffee intake has exceeded the daily maximum.
+
+![image](https://user-images.githubusercontent.com/20253982/203814518-cd39431d-b296-47d0-ae06-f9f317b3b492.png)
+
+------------------------
+
+**Title:**
+Decimal numbers accepted as inputs in Consumption Calculator
+
+**Description:**
+Decimal numbers are accepted as inputs for numbers of coffees and cigarettes in Consumption Calculator.
+
+**Steps to reproduce:**
+1. Go to https://www.globalsqa.com/angularJs-protractor/ConsumptionCalculator/
+2. Enter a decimal number as input for cups of coffee and cigarettes
+
+**Expected result:**
+Just integers should be accepted as inputs for numbers of coffees and cigarettes consumed. 
+
+**Actual result:**
+Decimal numbers are accepted as inputs for numbers of coffees and cigarettes.
+
+![image](https://user-images.githubusercontent.com/20253982/203808190-190bb6ba-a259-43d0-8878-5d16e521d888.png)
+
+------------------------
+
+**Title:**
 Failed to load browser tab icon on Fieni website
 
 **Description:**
@@ -105,43 +145,3 @@ The homepage should load for https://juice-shop.herokuapp.com/#/.
 An application error message is displayed.
 
 ![image](https://user-images.githubusercontent.com/20253982/203795049-4d5f1dea-a9fa-4654-8681-05d40d48a900.png)
-
-----------------------------------------
-
-**Title:**
-Decimal numbers accepted as inputs in Consumption Calculator
-
-**Description:**
-Decimal numbers are accepted as inputs for numbers of coffees and cigarettes in Consumption Calculator.
-
-**Steps to reproduce:**
-1. Go to https://www.globalsqa.com/angularJs-protractor/ConsumptionCalculator/
-2. Enter a decimal number as input for cups of coffee and cigarettes
-
-**Expected result:**
-Just integers should be accepted as inputs for numbers of coffees and cigarettes consumed. 
-
-**Actual result:**
-Decimal numbers are accepted as inputs for numbers of coffees and cigarettes.
-
-![image](https://user-images.githubusercontent.com/20253982/203808190-190bb6ba-a259-43d0-8878-5d16e521d888.png)
-
----------------------------------------
-
-**Title:**
-No picture shown for exceeded coffee intake
-
-**Description:**
-No picture is displayed after exceeding the daily maximum intake of coffee.
-
-**Steps to reproduce:**
-1. Go to https://www.globalsqa.com/angularJs-protractor/ConsumptionCalculator/
-2. Add 4 as input for the cups of coffee
-
-**Expected result:**
-When the coffee intake has exceeded the daily maximum a picture should be displayed.
-
-**Actual result:**
-No picture shown when the coffee intake has exceeded the daily maximum.
-
-![image](https://user-images.githubusercontent.com/20253982/203814518-cd39431d-b296-47d0-ae06-f9f317b3b492.png)

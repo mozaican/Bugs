@@ -152,18 +152,21 @@ The layout of the nagivation bar is disproportionally aligned and it looks bad.
 --------------------------------------
 
 **Title:**
-Unresponsive website - https://juice-shop.herokuapp.com/#/
+Unresponsive navigation bar design
 
 **Description:**
-The page https://juice-shop.herokuapp.com/#/ is unresponsive.
+The navigation bar for page https://www.demoblaze.com/ becomes unresponsive for some device screens (tested on Surface Pro 7).
 
 **Steps to reproduce:**
-1. Go to https://juice-shop.herokuapp.com/#/
+1. Go to https://www.demoblaze.com/
+2. Press F12
+3. Press Toggle Device Toolbar button (or Ctrl+Shift+M)
+4. Select Surface Pro 7 device screen
 
 **Expected result:**
-The homepage should load for https://juice-shop.herokuapp.com/#/.
+The navigation bar should be visible and displayed properly on the page.
 
 **Actual result:**
-An application error message is displayed.
+The navigation bar is hidden. 
 
-![image](https://user-images.githubusercontent.com/20253982/203795049-4d5f1dea-a9fa-4654-8681-05d40d48a900.png)
+![image](https://www.awesomescreenshot.com/image/37195068?key=015dbf4f01cfec0eea5f214ebefdce27)

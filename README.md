@@ -169,4 +169,4 @@ The navigation bar should be visible and displayed properly on the page.
 **Actual result:**
 The navigation bar is hidden. 
 
-![image](https://www.awesomescreenshot.com/image/37195068?key=015dbf4f01cfec0eea5f214ebefdce27)
+(https://tinyurl.com/2z6ss3uh) 
